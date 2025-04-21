@@ -1,9 +1,8 @@
-package org.example.base;
+package org.example.page;
 
 import org.example.util.Waithelper;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.devtools.v133.page.Page;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 

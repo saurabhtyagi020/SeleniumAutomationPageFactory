@@ -1,4 +1,4 @@
-package org.example.base;
+package org.example.page;
 
 
 import org.example.driver.DriverManager;
